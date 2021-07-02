@@ -9,3 +9,4 @@ class Fish(Animal):
     
     def otherAddedFn(self):
         print("This is the added fn over inherited class")
+#

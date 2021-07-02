@@ -4,3 +4,4 @@
 with open("Day24\prop.txt") as file:
     contents = file.read()
     print(contents) 
+    #

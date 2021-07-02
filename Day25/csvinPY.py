@@ -19,3 +19,4 @@ import pandas as pd
 data=pd.read_csv("Day25\weather_data.csv")
 print(data)
 print(data["temp"])
+#

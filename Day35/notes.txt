@@ -1,0 +1,15 @@
+making requests:
+
+import requests 
+ def endpoint
+ def apikey
+ def params dict
+in the params dict also include apike 
+
+ res= req.get(url,params=parmsDict);
+ res.json()
+
+ //Making the script
+ ---------------------
+ Sending the sms using twillo:
+ 
